@@ -1,1 +1,1 @@
-# Technival_Writing
+# Technical_Writing
